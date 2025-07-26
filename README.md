@@ -100,6 +100,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kushwanth-004&label=Profile%20views&color=0e75b6&style=flat" alt="kushwanth" /> </p>
+
 <p align="center">
   ⚡ <em>“Code like you mean it. Build like you live it.”</em>
 </p>
